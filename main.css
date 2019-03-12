@@ -18,8 +18,11 @@ body{
 .biodata>div{
     padding-bottom: 5px;
 }
-.nama{
-    font-size: 20px;
+.biodata>p{
     font-weight: bold;
-    color: green
+}
+.nama{
+    font-size: 30px;
+    font-weight: bold;
+    color: green;
 }
